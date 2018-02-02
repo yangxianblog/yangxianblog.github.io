@@ -602,6 +602,12 @@ a {
     color: #fff;
     opacity: 1;
   }
+  #container .bdshare-button-style2-24 {
+    width: 289px;
+  }
+  #container .bdshare-button-style2-24 .fx {
+    font: normal normal normal 30px/1 FontAwesome;
+  }
 }
 .header-author {
   text-align: center;
@@ -3389,6 +3395,26 @@ a.gitment-editor-footer-tip:hover {
 .copyright .copy-path:hover {
   color: #808080;
   cursor: pointer;
+}
+.bdshare-button-style2-24 {
+  width: 330px;
+  margin: auto;
+}
+.bdshare-button-style2-24 .fx {
+  color: #999;
+  padding: 0;
+  margin: 6px;
+  height: 54px;
+  display: inline-block;
+  font: normal normal normal 36px/1 FontAwesome;
+  background: none;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.bdshare-button-style2-24 .fx:hover {
+  color: #fff;
+  opacity: 1;
 }
 @-moz-keyframes cd-bounce-1 {
   0% {
